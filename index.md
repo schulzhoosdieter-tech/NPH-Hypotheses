@@ -1,5 +1,5 @@
 # Grundlegende Überlegungen zum NPH (Sammlung)
-
+**Arbeiten zu Physik und Philosophie:** [eleatics.de](https://eleatics.de)
 ## Vorbemerkung
 
 Dieser Text verbindet etabliertes medizinisches Wissen über den Normaldruckhydrozephalus mit eigenen Überlegungen und Hypothesen. Wo die aktuelle Forschung Lücken lässt, werden alternative Erklärungsansätze entwickelt – nicht als gesicherte Fakten, sondern als Denkanstöße für neue Forschungsrichtungen. Ziel ist es, auf möglicherweise übersehene Zusammenhänge aufmerksam zu machen und eine Diskussion über ursachenorientierte Therapieansätze anzuregen.
