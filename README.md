@@ -7,7 +7,7 @@ Diese Sammlung dokumentiert zwei eigenständige, aber thematisch verwandte mediz
 
 ## 1. Normaldruckhydrozephalus (NPH)
 
-**→ [Vollständige Ausführungen](NPH-Volltext-Ausfuehrungen.md)**
+**→ [Vollständige Ausführungen](NPH-Grundlegende-Ueberlegungen.md)**
 
 ### Kernthese
 
