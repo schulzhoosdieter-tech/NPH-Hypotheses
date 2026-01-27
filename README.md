@@ -11,14 +11,13 @@ Diese Sammlung dokumentiert zwei eigenständige, aber thematisch verwandte mediz
 
 ### Kernthese
 
-Der idiopathische Normaldruckhydrozephalus (iNPH) könnte primär eine **vaskuläre Erkrankung** sein, bei der erhöhte Viskosität der Hirn-Rückenmark-Flüssigkeit (CSF) zu einer Störung des glymphatischen Systems führt. Die charakteristische Ventrikelerweiterung wäre dann Folge, nicht Ursache der Symptomatik.
+Der idiopathische Normaldruckhydrozephalus (iNPH) könnte primär eine Viskositätsstörung sein, bei der erhöhte Viskosität der Hirn-Rückenmark-Flüssigkeit (CSF) zu einer Störung des glymphatischen Systems führt.
 
 ### Hauptargumente
 
-- **Viskositätserhöhung durch Mikrothromben** oder chronische Entzündungsprozesse
+- **Viskositätserhöhung verhindert Resorption und spinalen Abfluss
 - **Gestörtes glymphatisches Clearance-System** als zentrale Pathologie
-- **Shunt-Erfolge** durch Viskositätsnormalisierung erklärbar
-- Alternative Erklärung für die Diskrepanz zwischen "Normaldruck" und Symptomen
+  
 
 ### Status
 
