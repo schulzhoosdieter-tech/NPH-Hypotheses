@@ -11,7 +11,7 @@ Diese Sammlung dokumentiert zwei eigenständige, aber thematisch verwandte mediz
 
 ### Kernthese
 
-Der idiopathische Normaldruckhydrozephalus (iNPH) könnte primär eine Viskositätsstörung sein, bei der erhöhte Viskosität der Hirn-Rückenmark-Flüssigkeit (CSF) zu einer Störung des glymphatischen Systems führt.
+Der idiopathische Normaldruckhydrozephalus (iNPH) könnte primär eine Viskositätsstörung sein, bei der erhöhte Viskosität der Hirn-Rückenmark-Flüssigkeit (CSF) zu einer Störung des glymphatischen Systems führt. Die hier angeführte Viskositätsstörung des Liquors wird nicht als Folge einer bekannten mechanischen, vaskulären oder thrombotischen Ursache verstanden. Ihre Genese ist derzeit ungeklärt und stellt einen eigenständigen funktionalen Erklärungsansatz dar, der sich von den üblichen Druck- und Abflussmodellen des Normaldruckhydrozephalus deutlich unterscheidet.
 
 ### Hauptargumente
 
