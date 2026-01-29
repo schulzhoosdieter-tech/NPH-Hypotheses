@@ -23,6 +23,14 @@ Der idiopathische Normaldruckhydrozephalus (iNPH) könnte primär eine Viskosit�
 
 Zusammenstellung und Hypothesenbildung mit Unterstützung von KI-Systemen (ChatGPT, Claude).
 
+## NPH-Hypothesen
+
+### Haupthypothese: Viskosität als Schlüsselfaktor
+[Zur Haupthypothese](link-zur-hauptdatei.md)
+
+### Zusatzhypothese: Alkoholentzug und NPH-ähnliche Symptomatik
+[Alkoholentzug-Hypothese](nph_alkoholentzug_hypothese.md)
+
 ---
 
 ## 2. Hörtheorie und Tinnitus
@@ -62,13 +70,6 @@ Beide Hypothesen teilen methodische und inhaltliche Gemeinsamkeiten:
 4. **Alternative Interpretation** etablierter Beobachtungen
 5. **Erklärung von Phänomenen**, die bisherige Theorien nicht befriedigend klären können
 
-### Persönliche Verbindung
-
-Der Autor erlebte selbst zeitgleich auftretenden **stressinduzierten Haarausfall** (Alopecia areata) und **akute Hörverschlechterung** mit gemeinsamer Triggerbarkeit durch Methylxanthine (Koffein, Schokolade). Dies legt nahe, dass:
-
-- Keratin-Proteine (Haare) und Keratin-ähnliche Proteine (Membrana tectoria) gemeinsame Anfälligkeiten zeigen
-- Autoimmunreaktionen und Proteinkonformationsänderungen auf ähnlichen Mechanismen beruhen könnten
-- Vaskuläre und metabolische Faktoren beide Systeme beeinflussen
 
 ---
 
